@@ -107,5 +107,5 @@ function guessPhrase() {
 
 }
 
-    return  userInput, hint, result, hideCards(), displayHint(guessNum), getPhrase() //"module 2"
+    return  userInput, hint, result, hideCards(), displayHint(guessNum), getPhrase(), guessPhrase()//"module 2"
 }
