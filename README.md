@@ -2,6 +2,12 @@
 
 Reorganize the JavaScript file into module files.
 
+## Modules
+userInfo.js - creating and styling DOM elements.
+getGameLogic.js - game functionality.
+imgDisplay.js - event handlers to handling user inputs.
+validation.js - validation and random selection functions
+
 ## Project Discription 
 A small single-page web application to play guess the phrase game. A phrase card will be displaied and user can enter a string in the input to guess the phrase. 
 
